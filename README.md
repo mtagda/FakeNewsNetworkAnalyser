@@ -1,7 +1,7 @@
 # FakeNewsNetworkAnalyser
 
 
-#NewsGraph.de
+# NewsGraph.de
 
 
 We can’t combat fake news by ourselves but we can give people tool that enables them to better understand what mechanisms stand behind it. This tool will reveal and analyse the social networks structures standing behind the spread of the fake news, and name it’s most important actors. We need to give one an ability to instantly visualize the data, in order to deduct key insights, and enable the export of the data to further analysis. This tool needs to be easily accessible through useful Web User Interface, and highly efficient in computation of graphs. We will be then able to store the network graphs, and finally, we want to try to apply ML algorithms that will look for similarities in our collected Graph Database in order to better show the hidden patterns.
