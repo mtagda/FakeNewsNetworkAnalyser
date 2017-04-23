@@ -19,7 +19,7 @@ Die ganze Logik können wir dann in Python schreiben, und per AWS deployen. Wir 
 
 
 
-Tomasz Tkaczyk(github:gniewsus)
+Tomasz Tkaczyk(github:gniewus)
 Magdalena Trzeciak (github: mtagda)
 
 Main Working board
